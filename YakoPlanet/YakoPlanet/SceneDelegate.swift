@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  JR-Controls and TextViews
+//  YakoPlanet
 //
-//  Created by Jacobo Ramirez on 13/04/23.
+//  Created by Jacobo Ramirez on 16/04/23.
 //
 
 import UIKit
